@@ -1,0 +1,17 @@
+{
+    "name": "Base Me",
+    "symbol": "BASEME",
+    "website": "https://base-me.app",
+    "description": "Base Me is a social gaming app on Base. Spin the wheel, play Base Battle, Base Lottery, mine resources, complete quests, and earn BASEME tokens.",
+    "explorer": "https://basescan.org/token/0x38dC964761f5C88B8f931Be53f5E6bA383bDB140",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x38dC964761f5C88B8f931Be53f5E6bA383bDB140",
+    "type": "BASE",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/baseme_official"
+        }
+    ]
+}
